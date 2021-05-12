@@ -1,0 +1,1 @@
+import{R as e,a as t}from"./vendor.936bc9db.js";function a(){return e.createElement("div",{className:"App"},e.createElement("header",{className:"App-header"},e.createElement("img",{src:"/assets/logo.ecc203fb.svg",className:"App-logo",alt:"logo"})))}t.render(e.createElement(e.StrictMode,null,e.createElement(a,null)),document.getElementById("root"));
